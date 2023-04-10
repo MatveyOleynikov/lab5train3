@@ -3,6 +3,7 @@
 using namespace std;
 
 aaa;
+bbb;
 
 int main(){
 
